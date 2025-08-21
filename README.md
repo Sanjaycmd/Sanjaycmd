@@ -33,11 +33,39 @@
 
 ---
 
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjaycmd&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaycmd&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 📊 GitHub Analytics  
+
+<div align="center">
+
+<a href="https://github.com/Sanjaycmd">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjaycmd&show_icons=true&theme=radical" 
+       alt="GitHub Stats" 
+       height="180"
+       style="transition: transform 0.3s; display:inline-block;" 
+       onmouseover="this.style.transform='scale(1.1)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
+</a>
+
+<a href="https://github.com/Sanjaycmd">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycmd&theme=radical" 
+       alt="GitHub Streak" 
+       height="180"
+       style="transition: transform 0.3s; display:inline-block;" 
+       onmouseover="this.style.transform='scale(1.1)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
+</a>
+
+<a href="https://github.com/Sanjaycmd">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaycmd&layout=compact&theme=radical" 
+       alt="Top Languages" 
+       height="180"
+       style="transition: transform 0.3s; display:inline-block;" 
+       onmouseover="this.style.transform='scale(1.1)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
+</a>
+
+</div>
+
 
 ---
 
