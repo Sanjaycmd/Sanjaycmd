@@ -43,10 +43,10 @@
 
 ### 🌍 Let’s Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://linkedin.com/in/sanjay-v-n-21772128b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://tryhackme.com/p/YOUR-NAME">
+  <a href="https://tryhackme.com/p/SanjayVN">
     <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme" />
   </a>
   <a href="https://app.hackthebox.com/profile/YOUR-ID">
