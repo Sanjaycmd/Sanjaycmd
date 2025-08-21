@@ -79,14 +79,14 @@
 ### 🌍 Let’s Connect  
 <p align="center">
   <a href="https://linkedin.com/in/sanjay-v-n-21772128b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" 
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" alt="LinkedIn"
       style="transition: transform 0.3s; display:inline-block;" 
        onmouseover="this.style.transform='scale(1.1)';" 
        onmouseout="this.style.transform='scale(1)';"/>
   </a>
   <a href="https://tryhackme.com/p/SanjayVN">
-    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme"
-      style="transition: transform 0.3s; display:inline-block;" 
+ <img src="https://assets.tryhackme.com/img/THMlogo.png" width="40px" alt="TryHackMe"
+   style="transition: transform 0.3s; display:inline-block;" 
        onmouseover="this.style.transform='scale(1.1)';" 
        onmouseout="this.style.transform='scale(1)';"/>
   </a>
@@ -101,7 +101,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Hacker vibe gif">
 </p>
 
 
