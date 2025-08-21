@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- Profile README for Sanjaycmd -->
 
-<!--
-**Sanjaycmd/Sanjaycmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm Sanjay</h1>
+<h3 align="center">🚀 Cybersecurity Enthusiast | Pentester in Training | Builder of Security Projects</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me  
+- 🎓 3rd Year Cybersecurity Student exploring **Pentesting, Network Security, and AI for Security**  
+- 🔥 Passionate about solving CTF challenges & breaking things (to fix them better)  
+- ⚡ Motto: *Hack, Build, Secure.*  
+- 📚 Currently sharpening skills with **Kali Linux, Burp Suite, Metasploit, and Wireshark**  
+
+---
+
+### 🛠️ Tech Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,html,css,js,react,docker" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-F5A623?style=for-the-badge&logo=PortSwigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-0088cc?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+| 🚀 Project | 🔎 What It Does |
+|------------|----------------|
+| **[CopBot – Tamil Nadu Police Assistant](https://github.com/Sanjaycmd/CopBot)** | AI-powered chatbot for legal info, FIR guidance, and emergency contacts |
+
+
+---
+
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjaycmd&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaycmd&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🌍 Let’s Connect  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://tryhackme.com/p/YOUR-NAME">
+    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme" />
+  </a>
+  <a href="https://app.hackthebox.com/profile/YOUR-ID">
+    <img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox" />
+  </a>
+</p>
+
+---
+
+⭐ *“Every exploit is just a learning opportunity in disguise.”*
