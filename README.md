@@ -66,20 +66,38 @@
 
 </div>
 
+## 📈 Contribution Graph  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjaycmd&theme=radical" 
+       alt="GitHub Contribution Graph"
+       style="transition: transform 0.3s; display:inline-block;" 
+       onmouseover="this.style.transform='scale(1.05)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
+</div>
 
 ---
 
 ### 🌍 Let’s Connect  
 <p align="center">
   <a href="https://linkedin.com/in/sanjay-v-n-21772128b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" 
+      style="transition: transform 0.3s; display:inline-block;" 
+       onmouseover="this.style.transform='scale(1.1)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
   </a>
   <a href="https://tryhackme.com/p/SanjayVN">
-    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme" />
+    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme"
+      style="transition: transform 0.3s; display:inline-block;" 
+       onmouseover="this.style.transform='scale(1.1)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://app.hackthebox.com/profile/YOUR-ID">
-    <img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox" />
-  </a>
+ <a href="mailto:sanjayrayakottai@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+       alt="Email"
+       style="transition: transform 0.3s; display:inline-block;" 
+       onmouseover="this.style.transform='scale(1.1)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
 ---
