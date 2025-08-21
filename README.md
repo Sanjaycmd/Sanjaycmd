@@ -91,7 +91,7 @@
        onmouseout="this.style.transform='scale(1)';"/>
   </a>
  <a href="mailto:sanjayrayakottai@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" width="40px" 
        alt="Email"
        style="transition: transform 0.3s; display:inline-block;" 
        onmouseover="this.style.transform='scale(1.1)';" 
@@ -101,7 +101,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
 </p>
 
 
