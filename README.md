@@ -1,6 +1,6 @@
 <!-- Profile README for Sanjaycmd -->
 
-<h1 align="center">👋 Hey, I'm Sanjay</h1>
+<h1 align="center">👋 Hey, I'm Sanjay V N</h1>
 <h3 align="center">🚀 Cybersecurity Enthusiast | Pentester in Training | Builder of Security Projects</h3>
 
 ---
