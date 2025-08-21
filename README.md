@@ -69,11 +69,9 @@
 ## 📈 Contribution Graph  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjaycmd&theme=radical" 
-       alt="GitHub Contribution Graph"
-       style="transition: transform 0.3s; display:inline-block;" 
-       onmouseover="this.style.transform='scale(1.05)';" 
-       onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjaycmd&theme=radical" alt="Contribution Time Graph"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjaycmd&theme=radical" alt="Contribution Graph"/>
 </div>
 
 ---
