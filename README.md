@@ -84,12 +84,7 @@
        onmouseover="this.style.transform='scale(1.1)';" 
        onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://tryhackme.com/p/SanjayVN">
- <img src="https://assets.tryhackme.com/img/THMlogo.png" width="40px" alt="TryHackMe"
-   style="transition: transform 0.3s; display:inline-block;" 
-       onmouseover="this.style.transform='scale(1.1)';" 
-       onmouseout="this.style.transform='scale(1)';"/>
-  </a>
+
  <a href="mailto:sanjayrayakottai@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" width="40px" 
        alt="Email"
