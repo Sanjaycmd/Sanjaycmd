@@ -29,6 +29,7 @@
 | 🚀 Project | 🔎 What It Does |
 |------------|----------------|
 | **[CopBot – Tamil Nadu Police Assistant](https://github.com/Sanjaycmd/CopBot)** | AI-powered chatbot for legal info, FIR guidance, and emergency contacts |
+| **[Spyware – Surveillance data collector](https://github.com/Sanjaycmd/Spyware)** | A multi-function surveillance tool that extracts browser history while simultaneously capturing keystrokes, clipboard content, and screenshots |
 
 
 ---
